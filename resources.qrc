@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/viewshed_qos" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
